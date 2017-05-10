@@ -13,5 +13,7 @@ An hysterisis comparator is implemented. The value of the sensors is averaged an
 
 ## Future lines of work
 *You can imagine that there's also a motion sensor and you want to keep the room warm only when motion is present.
+
 *You can imagine there are a lot of rooms! And the sensors and valves should be controlled on per room basis.
+
 *You can imagine any other limitations you think would be fun to work with.
