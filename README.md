@@ -5,6 +5,7 @@ Prototype of a simple heating control
 Prototype a simple heatin control system. A radiator valve needs to be opened or closed in order to keep the room temperature at 22 ºC.
 
 *Input: periodic temperature readings in json format for a few sensors in the room
+
 *Output: Analogue value for the valve openness in json format
 
 ## Technical choices reasoning
